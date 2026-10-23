@@ -8,5 +8,6 @@ El sistema debe permitir registrar:
 - Usuarios: alumnos y docentes, con su legajo, nombre, correo institucional y teléfono.
 - Préstamos: cada préstamo pertenece a un usuario y puede incluir uno o varios ejemplares.
 Además, por cada ejemplar prestado se deben registrar la fecha de préstamo, la fecha prevista de devolución y la fecha real de devolución.
-<img width="1152" height="585" alt="Captura de pantalla 2026-10-23 103142" src="https://github.com/user-attachments/assets/32de10f8-7413-486a-8d3b-77f5bdc0aa3c" />
+<img width="2262" height="1162" alt="EJERCICIO 1 drawio" src="https://github.com/user-attachments/assets/e45f929a-4312-4ffb-b0c8-18d6df495d1d" />
+
 
